@@ -1,0 +1,44 @@
+{
+  "Mes estable": {
+    "requested_pct_revenue": 0.006,
+    "dso_trend_days": 0.006,
+    "pct_invoices_late": 0.006,
+    "log_revenue": 0.004,
+    "bureau_score": 0.004,
+    "years_operating": 0.004,
+    "credit_utilization": 0.003,
+    "avg_days_late": 0.003,
+    "sector_Pesca": 0.001,
+    "bureau_delinquencies": 0.001,
+    "sector_Mineria": 0.0,
+    "sector_Comercio": 0.0
+  },
+  "Cartera más riesgosa": {
+    "bureau_score": 0.174,
+    "pct_invoices_late": 0.137,
+    "credit_utilization": 0.13,
+    "avg_days_late": 0.102,
+    "bureau_delinquencies": 0.077,
+    "dso_trend_days": 0.069,
+    "log_revenue": 0.014,
+    "requested_pct_revenue": 0.007,
+    "years_operating": 0.003,
+    "sector_Comercio": 0.001,
+    "sector_Mineria": 0.001,
+    "sector_Pesca": 0.0
+  },
+  "Shock macro no observado": {
+    "years_operating": 0.008,
+    "dso_trend_days": 0.006,
+    "requested_pct_revenue": 0.006,
+    "log_revenue": 0.005,
+    "bureau_score": 0.004,
+    "credit_utilization": 0.003,
+    "avg_days_late": 0.003,
+    "sector_Comercio": 0.001,
+    "bureau_delinquencies": 0.001,
+    "pct_invoices_late": 0.001,
+    "sector_Mineria": 0.001,
+    "sector_Pesca": 0.0
+  }
+}
