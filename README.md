@@ -4,6 +4,16 @@
 
 ![ROC y calibración](reports/figures/01_roc_calibracion.png)
 
+## Demo y capturas
+
+![Laboratorio interactivo de este proyecto](docs/laboratorio.gif)
+
+> El mismo gráfico es **interactivo** en el [laboratorio de mi portafolio](https://dataross.vercel.app/#laboratorio): mueve los controles y se redibuja con los resultados de este repositorio.
+
+![SHAP: qué variables pesan en cada decisión](reports/figures/03_shap_importancia.png)
+
+*SHAP: qué variables pesan en cada decisión.*
+
 ## Problema de negocio
 
 Aprobar una línea de crédito exige combinar comportamiento de pago interno, información de buró y

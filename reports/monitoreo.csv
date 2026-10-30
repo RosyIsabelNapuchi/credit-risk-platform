@@ -1,0 +1,4 @@
+escenario,PSI_score,estado_PSI,variable_mas_inestable,PSI_variable,PD_predicha,default_observado,estado_calibracion,AUC
+Mes estable,0.003,estable,requested_pct_revenue,0.006,0.0818,0.0887,calibrado,0.809
+Cartera más riesgosa,0.204,vigilar,bureau_score,0.174,0.14,0.1453,calibrado,0.841
+Shock macro no observado,0.003,estable,years_operating,0.008,0.0847,0.1213,subestima riesgo,0.827

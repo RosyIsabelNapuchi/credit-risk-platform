@@ -1,0 +1,46 @@
+{
+  "metricas_test": {
+    "Regresión logística": {
+      "ROC_AUC": 0.8358,
+      "Gini": 0.6716,
+      "KS": 0.5032,
+      "Brier": 0.061,
+      "PD_media_predicha": 0.0866,
+      "Default_rate_real": 0.0849
+    },
+    "XGBoost monótono": {
+      "ROC_AUC": 0.8297,
+      "Gini": 0.6595,
+      "KS": 0.5219,
+      "Brier": 0.0622,
+      "PD_media_predicha": 0.0849,
+      "Default_rate_real": 0.0849
+    }
+  },
+  "iteraciones_xgb": 98,
+  "ejemplo_explicacion": {
+    "pd": 0.808,
+    "score": 460,
+    "banda": "E",
+    "razones": [
+      {
+        "factor": "puntaje de buró",
+        "valor": 413.0,
+        "efecto": "aumenta el riesgo",
+        "impacto_log_odds": 1.351
+      },
+      {
+        "factor": "morosidades reportadas en buró",
+        "valor": 9.0,
+        "efecto": "aumenta el riesgo",
+        "impacto_log_odds": 1.087
+      },
+      {
+        "factor": "días promedio de atraso",
+        "valor": 98.4,
+        "efecto": "aumenta el riesgo",
+        "impacto_log_odds": 0.718
+      }
+    ]
+  }
+}
